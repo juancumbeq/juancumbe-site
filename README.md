@@ -3,7 +3,7 @@
 </p>
 
 
-# [JUANCUMBE.COM](https://juancumbe.com)
+# [JUANCUMBE.COM](https://juancumbe.com) 🚀
 
 
 asdfasfdasdfasdfas
@@ -20,13 +20,11 @@ asdfasfdasdfasdfas
 
 ## Index
 
-- [Live](#live)
-- [Installation](#installation)
-- [Technologies Used](#technologies-used)
-- [File Structure](#file-structure)
-- [Screenshots](#screenshots)
-- [License](#license)
-- [Author](#author)
+- [JUANCUMBE.COM 🚀](#juancumbecom-)
+  - [Index](#index)
+  - [Live](#live)
+  - [Installation](#installation)
+  - [Technologies Used](#technologies-used)
 
 <br>
 
@@ -44,14 +42,18 @@ Click here to try this website: [Link](https://juancumbe.com)
 
 If you want to use this website as a template to create your own version, following the next steps:
 
-- Open yor favourite terminal
-- Navigate til the folder where you want to clone this repo
-- Copy and paste the following text: 
-  ```git@github.com:juancumbeq/juancumbe-site.git <insert a name for the project folder>```
-- Open the project with your favourite IDE o text editor
-- Start building your own version! Enjoy it!
+- 🖥️ Open yor favorite terminal.
+- 📂 Navigate to the folder where you want to clone this repository.
+- 📋 Copy and paste the following text: ```git@github.com:juancumbeq/juancumbe-site.git <insert a name for the project folder>```.
+- 📝 Open the project with your favorite IDE o text editor.
+- 🛠️ Start building your own version! Enjoy it! 😊
+
+<br>
 
 <a name="technologies-used"></a>
+
+## Technologies Used
+
 <a name="file-structure"></a>
 <a name="screenshots"></a>
 <a name="license"></a>
