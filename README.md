@@ -3,7 +3,8 @@
 </p>
 
 
-# [JUANCUMBE.COM](https://juancumbe.com) 🚀
+# [JUANCUMBE.COM](https://juancumbe.com) 🚀
+## JUANCUMBE.COM
 
 Welcome to my portfolio website! I'm thrilled to have you here. This space serves as a digital showcase of my journey, skills, and projects. Whether you're a potential employer, collaborator, or simply curious about my work, I hope you'll find something inspiring and insightful as you explore. Feel free to browse through my projects, learn more about my background, and get in touch if you have any questions or opportunities for collaboration. Thank you for visiting, and I hope you enjoy your time here!
 
