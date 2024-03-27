@@ -46,7 +46,8 @@ If you want to use this website as a template to create your own version, follow
 
 - Open yor favourite terminal
 - Navigate til the folder where you want to clone this repo
-- Copy and paste the following text: ```git@github.com:juancumbeq/juancumbe-site.git <insert a name for the project folder>```
+- Copy and paste the following text: 
+  ```git@github.com:juancumbeq/juancumbe-site.git <insert a name for the project folder>```
 - Open the project with your favourite IDE o text editor
 - Start building your own version! Enjoy it!
 
