@@ -3,8 +3,8 @@
 </p>
 
 
-# [JUANCUMBE.COM](https://juancumbe.com) 🚀
-
+[JUANCUMBE.COM](https://juancumbe.com) 🚀
+# TaskTeam 👨🏽‍💻
 
 asdfasfdasdfasdfas
 
@@ -20,7 +20,7 @@ asdfasfdasdfasdfas
 
 ## Index
 
-- [JUANCUMBE.COM 🚀](#juancumbecom-)
+- [TaskTeam 👨🏽‍💻](#taskteam-)
   - [Index](#index)
   - [Live](#live)
   - [Installation](#installation)
@@ -53,6 +53,14 @@ If you want to use this website as a template to create your own version, follow
 <a name="technologies-used"></a>
 
 ## Technologies Used
+
+This website represents the first versión of my portfolio, so I did not want to apply complex concepts or most modern architectures, that's the reason why this website was build using:
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%2523?style=for-the-badge&logo=html5&logoColor=black&color=E9ECEF" alt="html5" class='lang'>
+  <img src="https://img.shields.io/badge/css3-%2523?style=for-the-badge&logo=css3&logoColor=black&color=E9ECEF" alt="css3" class='lang'>
+  <img src="https://img.shields.io/badge/javascript-%2523?style=for-the-badge&logo=javascript&logoColor=black&color=E9ECEF" alt="javascript" class='lang'>
+  <img src="https://img.shields.io/badge/bootstrap-%2523?style=for-the-badge&logo=bootstrap&logoColor=black&color=E9ECEF" alt="bootstrap" class='lang'>
+</p>
 
 <a name="file-structure"></a>
 <a name="screenshots"></a>
