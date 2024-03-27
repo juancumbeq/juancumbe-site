@@ -26,6 +26,7 @@ asdfasfdasdfasdfas
   - [Installation](#installation)
   - [Technologies Used](#technologies-used)
   - [File Structure](#file-structure)
+  - [Screenshots](#screenshots)
 
 <br>
 
@@ -100,7 +101,30 @@ juancumbe-site
 
 <a name="screenshots"></a>
 
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/juancumbeq/juancumbe-site/blob/main/images/juancumbe.png?raw=true" width= "90%" title="screenshot">
+  <img src="https://github.com/juancumbeq/juancumbe-site/blob/main/images/aboutme.png?raw=true" width= "90%" title="screenshot">
+</p>
+
+<p align="center">
+  <img src="https://github.com/juancumbeq/juancumbe-site/blob/main/images/juancumbe.png?raw=true" width= "90%" title="screenshot">
+  <img src="https://github.com/juancumbeq/juancumbe-site/blob/main/images/aboutme.png?raw=true" width= "90%" title="screenshot">
+</p>
+
+<p align="center">
+  <img src="https://github.com/juancumbeq/juancumbe-site/blob/main/images/portfolio.png?raw=true" width= "90%" title="screenshot">
+  <img src="https://github.com/juancumbeq/juancumbe-site/blob/main/images/education.png?raw=true" width= "90%" title="screenshot">
+</p>
+
+<p align="center">
+  <img src="https://github.com/juancumbeq/juancumbe-site/blob/main/images/skills.png?raw=true" width= "90%" title="screenshot">
+  <img src="https://github.com/juancumbeq/juancumbe-site/blob/main/images/hitmeup.png?raw=true" width= "90%" title="screenshot">
+</p>
+
 <br>
+
 
 <a name="license"></a>
 
