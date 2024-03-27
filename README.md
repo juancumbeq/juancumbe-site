@@ -109,11 +109,6 @@ juancumbe-site
 </p>
 
 <p align="center">
-  <img src="https://github.com/juancumbeq/juancumbe-site/blob/main/assets/readme/juancumbe.png?raw=true" width= "90%" title="screenshot">
-  <img src="https://github.com/juancumbeq/juancumbe-site/blob/main/assets/readme/aboutme.png?raw=true" width= "90%" title="screenshot">
-</p>
-
-<p align="center">
   <img src="https://github.com/juancumbeq/juancumbe-site/blob/main/assets/readme/portfolio.png?raw=true" width= "90%" title="screenshot">
   <img src="https://github.com/juancumbeq/juancumbe-site/blob/main/assets/readme/education.png?raw=true" width= "90%" title="screenshot">
 </p>
