@@ -25,6 +25,7 @@ asdfasfdasdfasdfas
   - [Live](#live)
   - [Installation](#installation)
   - [Technologies Used](#technologies-used)
+  - [File Structure](#file-structure)
 
 <br>
 
@@ -54,7 +55,7 @@ If you want to use this website as a template to create your own version, follow
 
 ## Technologies Used
 
-This website represents the first versión of my portfolio, so I did not want to apply complex concepts or most modern architectures, that's the reason why this website was build using:
+This website represents the first versión of my portfolio. As such, I chose not to apply complex concepts or the most modern architectures. That's why this website was build using:
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%2523?style=for-the-badge&logo=html5&logoColor=black&color=E9ECEF" alt="html5" class='lang'>
   <img src="https://img.shields.io/badge/css3-%2523?style=for-the-badge&logo=css3&logoColor=black&color=E9ECEF" alt="css3" class='lang'>
@@ -62,7 +63,49 @@ This website represents the first versión of my portfolio, so I did not want to
   <img src="https://img.shields.io/badge/bootstrap-%2523?style=for-the-badge&logo=bootstrap&logoColor=black&color=E9ECEF" alt="bootstrap" class='lang'>
 </p>
 
+<br>
+
 <a name="file-structure"></a>
+
+
+## File Structure 
+
+Representation of the proyect's file structure:
+
+```
+juancumbe-site
+├─ LICENSE
+│
+├─ assets
+│  ├─ download
+│  │  └─ JuanCumbe_CV_ENG_NoPhone.pdf
+│  └─ img
+│     ├─ favicon-132x132.png
+│     ├─ favicon-40xx40.png
+│     ├─ juancumbe.png
+│     ├─ taskteam.png
+│     └─ webinar-manager.png
+│
+├─ css
+│  └─ styles.css
+│
+├─ js
+│   └─ scripts.js
+│
+└─ index.html
+
+```
+
+<br>
+
 <a name="screenshots"></a>
+
+<br>
+
 <a name="license"></a>
+
+<br>
+
 <a name="author"></a>
+
+<br>
