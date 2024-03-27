@@ -27,6 +27,8 @@ asdfasfdasdfasdfas
   - [Technologies Used](#technologies-used)
   - [File Structure](#file-structure)
   - [Screenshots](#screenshots)
+  - [License](#license)
+  - [Author](#author)
 
 <br>
 
@@ -120,11 +122,16 @@ juancumbe-site
 
 <br>
 
-
 <a name="license"></a>
+
+## License
+
+This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
 <br>
 
 <a name="author"></a>
 
-<br>
+## Author
+
+This project was implemented by Juan Cumbe. If you have any questions or suggestions about the project, feel free to contact me via [e-mail](mailto:hello@juancumbe.com) or my [Linkedin](https://www.linkedin.com/in/juancumbeq/) profile. 😊
