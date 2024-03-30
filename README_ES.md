@@ -22,7 +22,7 @@
   - [Instalación](#installation)
   - [Tecnologías Usadas](#technologies-used)
   - [Estructura de Archivos](#file-structure)
-  - [Screenshots](#screenshots)
+  - [Capturas de Pantalla](#screenshots)
   - [Licencia](#license)
   - [Autor](#author)
 
@@ -53,9 +53,9 @@ Si quieres usar este sitio web como plantilla para crear tu propia versión, sig
 
 <a name="technologies-used"></a>
 
-## Technologies Used
+## Tecnologías Usadas
 
-This website represents the first versión of my portfolio. As such, I chose not to apply complex concepts or the most modern architectures. That's why this website was build using:
+Esta web representa la primera versión de mi portafolio. He elegido no aplicar conceptos complejos o arquitecturas más modernas. Es por ello que esta web ha sido construida usando:
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%2523?style=for-the-badge&logo=html5&logoColor=black&color=E9ECEF" alt="html5" class='lang'>
   <img src="https://img.shields.io/badge/css3-%2523?style=for-the-badge&logo=css3&logoColor=black&color=E9ECEF" alt="css3" class='lang'>
@@ -68,9 +68,9 @@ This website represents the first versión of my portfolio. As such, I chose not
 <a name="file-structure"></a>
 
 
-## File Structure 
+## Estructura de Ficheros 
 
-Representation of the proyect's file structure:
+Representación de la estructura de ficheros del proyecto:
 
 ```
 juancumbe-site
@@ -100,7 +100,7 @@ juancumbe-site
 
 <a name="screenshots"></a>
 
-## Screenshots
+## Capturas de Pantalla
 
 <p align="center">
   <img src="https://github.com/juancumbeq/juancumbe-site/blob/main/assets/readme/juancumbe.png?raw=true" width= "90%" title="screenshot">
@@ -121,14 +121,14 @@ juancumbe-site
 
 <a name="license"></a>
 
-## License
+## Licencia
 
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
+Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
 
 <br>
 
 <a name="author"></a>
 
-## Author
+## Auhor
 
-This project was implemented by Juan Cumbe. If you have any questions or suggestions about the project, feel free to contact me via [e-mail](mailto:hello@juancumbe.com) or my [Linkedin](https://www.linkedin.com/in/juancumbeq/) profile. 😊
+Este proyecto fue implementado por Juan Cumbe. Si tienes alguna pregunta o sugerencia sobre el proyecto, no dudes en contactarme a través de [e-mail](mailto:hello@juancumbe.com) o perfil en [Linkedin](https://www.linkedin.com/in/juancumbeq/). También puedes visitar mi sitio web [juancumbe.com](juancumbe.com). 😊
