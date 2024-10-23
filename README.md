@@ -1,8 +1,3 @@
-<p align="right">
-	<a href="README_ES.md">Haga clic aquí para versión en español</a>
-</p>
-
-
 # [JUANCUMBE.COM](https://juancumbe.com) 🚀
 
 Welcome to my portfolio website! I'm thrilled to have you here. This space serves as a digital showcase of my journey, skills, and projects. Whether you're a potential employer, collaborator, or simply curious about my work, I hope you'll find something inspiring and insightful as you explore. Feel free to browse through my projects, learn more about my background, and get in touch if you have any questions or opportunities for collaboration. Thank you for visiting, and I hope you enjoy your time here!
@@ -15,21 +10,21 @@ Welcome to my portfolio website! I'm thrilled to have you here. This space serve
 
 <br>
 
-## Index
+## INDEX
 
-  - [Live](#live)
-  - [Installation](#installation)
-  - [Technologies Used](#technologies-used)
-  - [File Structure](#file-structure)
-  - [Screenshots](#screenshots)
-  - [License](#license)
-  - [Author](#author)
+- [Live](#live)
+- [Installation](#installation)
+- [Technologies Used](#technologies-used)
+- [File Structure](#file-structure)
+- [Screenshots](#screenshots)
+- [License](#license)
+- [Author](#author)
 
 <br>
 
 <a name="live"></a>
 
-## Live
+## LIVE
 
 Click here to try this website: [Link](https://juancumbe.com)
 
@@ -37,13 +32,13 @@ Click here to try this website: [Link](https://juancumbe.com)
 
 <a name="installation"></a>
 
-## Installation
+## INSTALLATION
 
 If you want to use this website as a template to create your own version, following the next steps:
 
 - 🖥️ Open yor favorite terminal.
 - 📂 Navigate to the folder where you want to clone this repository.
-- 📋 Copy and paste the following text: ```git@github.com:juancumbeq/juancumbe-site.git <insert a name for the project folder>```.
+- 📋 Copy and paste the following text: `git@github.com:juancumbeq/juancumbe-site.git <insert a name for the project folder>`.
 - 📝 Open the project with your favorite IDE o text editor.
 - 🛠️ Start building your own version! Enjoy it! 😊
 
@@ -51,9 +46,10 @@ If you want to use this website as a template to create your own version, follow
 
 <a name="technologies-used"></a>
 
-## Technologies Used
+## TECHNOLOGIES USED
 
 This website represents the first versión of my portfolio. As such, I chose not to apply complex concepts or the most modern architectures. That's why this website was built using:
+
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%2523?style=for-the-badge&logo=html5&logoColor=black&color=E9ECEF" alt="html5" class='lang'>
   <img src="https://img.shields.io/badge/css3-%2523?style=for-the-badge&logo=css3&logoColor=black&color=E9ECEF" alt="css3" class='lang'>
@@ -65,8 +61,7 @@ This website represents the first versión of my portfolio. As such, I chose not
 
 <a name="file-structure"></a>
 
-
-## File Structure 
+## FILE STRUCTURE
 
 Representation of the proyect's file structure:
 
@@ -98,7 +93,7 @@ juancumbe-site
 
 <a name="screenshots"></a>
 
-## Screenshots
+## SCREENSHOTS
 
 <p align="center">
   <img src="https://github.com/juancumbeq/juancumbe-site/blob/main/assets/readme/juancumbe.png?raw=true" width= "90%" title="screenshot">
@@ -119,7 +114,7 @@ juancumbe-site
 
 <a name="license"></a>
 
-## License
+## LICENSE
 
 This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
@@ -127,6 +122,6 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 <a name="author"></a>
 
-## Author
+## AUTHOR
 
 This project was implemented by Juan Cumbe. If you have any questions or suggestions about the project, feel free to contact me via [e-mail](mailto:hello@juancumbe.com) or my [Linkedin](https://www.linkedin.com/in/juancumbeq/) profile. 😊
